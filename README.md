@@ -1,6 +1,6 @@
 # TI-84 Applications
 
-## What is the project and its objective?
+## What are the projects?
 
 A collection of 16 TI-BASIC programs for TI-84 calculators. My objective was to automate maths calculations and explore calculator programming through utilities and text animations. The programs cover series, angle conversion, hyperbolic functions, cross products, polynomial multiplication, triangle calculations, and quadratic-formula support.
 
