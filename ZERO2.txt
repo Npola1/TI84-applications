@@ -1,0 +1,102 @@
+Disp "0
+ClrHome
+Disp " 0
+ClrHome
+Disp "  0
+ClrHome
+Disp "   0
+ClrHome
+Disp "    0
+ClrHome
+Disp "     0
+ClrHome
+Disp "      0
+ClrHome
+Disp "       0
+ClrHome
+Disp "        0
+ClrHome
+Disp "         0
+ClrHome
+Disp "          0
+ClrHome
+Disp "           0
+ClrHome
+Disp "            0
+ClrHome
+Disp "             0
+ClrHome
+Disp "              0
+ClrHome
+Disp "               0
+ClrHome
+Disp "                0
+ClrHome
+Disp "                 0
+ClrHome
+Disp "                  0
+ClrHome
+Disp "                   0
+ClrHome
+Disp "                    0
+ClrHome
+Disp "                     0
+ClrHome
+Disp "                      0
+ClrHome
+Disp "                       0
+ClrHome
+Disp "                        0
+ClrHome
+Disp "                         0
+ClrHome
+Disp "                        0
+ClrHome
+Disp "                       0
+ClrHome
+Disp "                      0
+ClrHome
+Disp "                     0
+ClrHome
+Disp "                    0
+ClrHome
+Disp "                   0
+ClrHome
+Disp "                  0
+ClrHome
+Disp "                 0
+ClrHome
+Disp "                0
+ClrHome
+Disp "               0
+ClrHome
+Disp "              0
+ClrHome
+Disp "             0
+ClrHome
+Disp "            0
+ClrHome
+Disp "           0
+ClrHome
+Disp "          0
+ClrHome
+Disp "         0
+ClrHome
+Disp "        0
+ClrHome
+Disp "       0
+ClrHome
+Disp "      0
+ClrHome
+Disp "     0
+ClrHome
+Disp "    0
+ClrHome
+Disp "   0
+ClrHome
+Disp "  0
+ClrHome
+Disp " 0
+ClrHome
+Disp "0
+prgmZERO2

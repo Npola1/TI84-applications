@@ -1,0 +1,28 @@
+ClrHome
+Disp "COSH(PRESS 1)
+Disp "SECH(PRESS 0)
+Input A
+int(A)
+If A>1
+Then:
+1→A
+End
+If A<0
+Then:
+0→A
+End
+If A=1
+Then:
+Disp "COSH OF?
+Input B
+Disp cosh(B)
+Pause 
+End
+If A=0
+Then:
+Disp "SECH OF?
+Input B
+Disp 1/(cosh(B))
+Pause 
+End
+Stop

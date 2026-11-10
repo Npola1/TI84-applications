@@ -1,0 +1,11 @@
+ClrHome
+Disp "FIRST TERM?
+Input A
+Disp "COMMON DIFFERENCE?
+Input D
+Disp "NUMBER OF TERMS?
+Input N
+(N/2)(2A+(N-1)D)→C
+Disp "SUM IS:",C
+Pause 
+Stop

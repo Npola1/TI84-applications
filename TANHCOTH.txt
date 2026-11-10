@@ -1,0 +1,28 @@
+ClrHome
+Disp "TANH(PRESS 1)"
+Disp "COTH(PRESS 0)
+Input A
+int(A)
+If A>1
+Then:
+1→A
+End
+If A<0
+Then:
+0→A
+End
+If A=1
+Then:
+Disp "TANH OF?
+Input B
+Disp tanh(B)
+Pause 
+End
+If A=0
+Then:
+Disp "COTH OF?
+Input B
+Disp 1/tanh(B)
+Pause 
+End
+Stop

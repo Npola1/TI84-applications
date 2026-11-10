@@ -1,0 +1,31 @@
+ClrHome
+Disp "AX^6+BX^5+CX^4+DX^3+EX^2
+Disp "FX+G
+Prompt A,B,C,D,E,F,G
+ClrHome
+Disp "HX^6+IX^5+JX^4+KX^3+LX^2
+Disp "MX+N
+Prompt H,I,J,K,L,M,N
+AH→O
+AI+BH→P
+AJ+BI+CH→Q
+AK+BJ+CI+DH→R
+AL+BK+CJ+DI+EH→S
+AM+BL+CK+DJ+EI+FH→T
+AN+BM+CI+DK+EJ+FI+GH→U
+BN+CM+DL+EK+FJ+GI→V
+CN+DM+EL+FK+GJ→W
+DN+EM+FL+GK→X
+EN+FM+GL→Y
+FN+GM→Z
+GN→θ
+ClrHome
+Disp "AX^12+BX^11+CX^10+DX^9",O,P,Q,R
+Pause 
+ClrHome
+Disp "EX^8+FX^7+GX^6+HX^5+IX^4",S,T,U,V,W
+Pause 
+ClrHome
+Disp "JX^3+KX^2+LX+M",X,Y,Z,θ
+Pause 
+Stop

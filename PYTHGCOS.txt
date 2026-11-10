@@ -1,0 +1,32 @@
+ClrHome
+Disp "PYTHAGORAS OR COSSINE TEO
+Disp "PYTHAG(1) and COSSINE(0)
+Input A
+int(A)
+If A>1
+Then:
+1→A
+End
+If A<0
+Then:
+0→A
+End
+ClrHome
+If A=1
+Then:
+Disp "SIDE1(B) and SIDE(D)
+Prompt B,D
+√(B^2+D^2)→C
+Disp "HYPOTENUSE:",C
+Pause 
+Stop
+End
+If A=0
+ClrHome
+Disp "SIDE1(B),SIDE2(D) and ANGLE
+Disp "θ
+Prompt B,D,θ
+√((B^2+D^2)-2BDcos(θ))→C
+Disp "REMAINING SIDE:",C
+Stop
+End

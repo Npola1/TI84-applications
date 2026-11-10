@@ -1,0 +1,28 @@
+ClrHome
+Disp "SINH(PRESS 1)"
+Disp "CSCH(PRESS 0)
+Input A
+int(A)
+If A>1
+Then:
+1→A
+End
+If A<0
+Then:
+0→A
+End
+If A=1
+Then:
+Disp "SINH OF?
+Input B
+Disp sinh(B)
+Pause 
+End
+If A=0
+Then:
+Disp "CSCH OF?
+Input A
+Disp 1/(sinh(B))
+Pause 
+End
+Stop

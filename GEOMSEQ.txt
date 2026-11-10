@@ -1,0 +1,41 @@
+ClrHome
+Disp "INFINITE(1) OR FINITE(0)?
+Input A
+int(A)
+If A>1
+Then:
+1→A
+End
+If A<0
+Then:
+0→A
+End
+If A=1
+Then:
+ClrHome
+Disp "COMMON RATIO(R) and FIRST 
+Disp "TERM(B)?
+Prompt R,B
+B/(1-R)→S
+Disp "SUM IS EQUAL TO:",S
+End
+If R<⁻1 or R>1
+Then:
+Disp "NOT INFINITE
+Pause 
+End
+If 1>R and R>⁻1
+Then:
+Disp "IS INFINITE
+Pause 
+End
+If A=0
+Then:
+Disp "COMMON RATIO(R),FIRST
+Disp "TERM(B) and NUMBER OF 
+Disp "TERMS(N)
+Prompt R,B,N
+(B(1-R^N))/(1-R)→S
+Disp "SUM IS:",S
+Pause 
+End

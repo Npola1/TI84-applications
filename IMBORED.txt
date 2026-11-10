@@ -1,0 +1,55 @@
+Lbl 1
+Disp " 
+Disp " 
+Disp " 
+Disp "             CC
+Disp "           CC
+Disp "         CC
+Disp "       CC
+Disp "      C
+Disp "      C
+Disp "      C
+Disp "       CC
+Disp "         CC
+Disp "           CC
+Disp "             CC
+Disp " 
+Disp "
+Disp "
+Disp "
+Disp "          OOOOO
+Disp "        OO     OO
+Disp "      OO         OO
+Disp "      O           O
+Disp "      O           O
+Disp "      O           O
+Disp "      O           O
+Disp "      OO         OO
+Disp "        OO     OO
+Disp "          OOOOO
+Disp " 
+Disp " 
+Disp "          OOOOO
+Disp "        OO     OO
+Disp "      OO         OO
+Disp "      O           O
+Disp "      O           O
+Disp "      O           O
+Disp "      O           O
+Disp "      OO         OO
+Disp "        OO     OO
+Disp "          OOOOO
+Disp " 
+Disp "
+Disp "      L
+Disp "      L
+Disp "      L
+Disp "      L
+Disp "      L
+Disp "      L
+Disp "      L
+Disp "      LLLLLLLLLLLLL
+Disp " 
+Disp " 
+Disp " 
+Goto 1

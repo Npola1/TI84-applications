@@ -1,0 +1,32 @@
+ClrHome
+Disp "DEG TO RAD(0),RAD TO DEG(1
+Disp ")
+Prompt A
+ClrHome
+int(A)
+If A>1
+Then:
+1→A
+End
+If 0>A and not(A=0)
+Then:
+0→A
+End
+If A=0
+Then:
+Disp "VALUE IN DEGREES:
+Prompt B
+Disp "Aπ
+Disp "---
+Disp "180
+Disp "A=",B
+Pause 
+End
+If A=1
+Then:
+Disp "VALUE IN RADIANS:
+Prompt B
+B*(180/π)→C
+Disp "IN DEGREES:",C
+Pause 
+End

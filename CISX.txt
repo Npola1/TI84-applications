@@ -1,0 +1,7 @@
+ClrHome
+Radian
+Disp "R(cos(θ)+𝑖sin(θ))
+Prompt R,θ
+Disp R(cos(θ)+𝑖sin(θ))
+Pause 
+Stop

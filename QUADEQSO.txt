@@ -1,0 +1,18 @@
+ClrHome
+Disp "AX²+BX+C=0
+Prompt A,B,C
+ClrHome
+B^2-4AC→D
+Disp "⁻B+-√(DELTA)
+Disp "------------
+Disp "     2A
+Disp "⁻B:",⁻B
+Disp "DELTA:",D
+Disp "2A:",2A
+Pause 
+ClrHome
+Disp "DELTA=",D
+√(D)→Z
+Disp "√(DELTA)=",Z
+Pause 
+Stop

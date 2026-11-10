@@ -1,0 +1,16 @@
+ClrHome
+Disp "VECTOR 1"
+Disp "I,J,K"
+Prompt A,B,C
+Disp "VECTOR 2"
+Disp "I,J,K"
+Prompt D,E,F
+ClrHome
+Disp "NORMAL VECTOR:"
+Disp "𝑖"
+Disp "J"
+Disp "K"
+Disp (B*F-C*E)
+Disp (C*D-A*F)
+Disp (A*E-B*D)
+Pause 
